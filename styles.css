@@ -69,6 +69,18 @@ html, body {
     margin-bottom: 0px;
 }
 
+.footer {
+    color:#E5E7EB;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+}
+
+.footer p {
+    height: fit-content;
+    width: fit-content;
+}
+
 img {
     width: 60%;
     display: flex;
