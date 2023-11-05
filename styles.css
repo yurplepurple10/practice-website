@@ -34,6 +34,34 @@ html, body {
     gap: 32px;
     align-items: center;
 }
+
+.section2 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 8px;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 48px;
+    background-color: #F9FAF8;
+}
+
+.subsection {
+    padding: 8px;
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-bottom: 32px;
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
+}
+
+div.object {
+    border: 5px solid #3882F6;
+    border-radius: 10%;
+    width: 125px;
+    height: 125px;
+}
   
 .item1 {
     color: #F9FAF8;
@@ -98,6 +126,25 @@ button {
     border: none;
     border-radius: 10px;
 
+}
+
+figcaption {
+    text-align: center;
+    color: #1F2937;
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 5px;
+}
+
+figure {
+    text-align: center;
+    margin: 0px;
+}
+
+h3 {
+    font-size: 24px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #1F2937;
 }
 
 #header,
