@@ -1,2 +1,3 @@
 # practice-website
 A website to practice CSS and Flexbox.
+Final thoughts: I'm sure this could have been done in a much cleaner way, but it was definitely a learning experience. 'Investigate' in the browser was super helpful to fix errors, especially when it came to the part with the four divs with borders in the white section under the header. I was having some trouble with 'flex-end', I'm still not entirely sure why it wasn't working but I was able to use another trick to get everything looking how I wanted it. Overall I think if I attempted this project again, I would be able to do it a bit faster.
