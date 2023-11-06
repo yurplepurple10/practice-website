@@ -78,7 +78,7 @@ div.object {
 .item2 {
     color: #E5E7EB;
     font-size: 18px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     height: fit-content;
     width:fit-content;
 }
@@ -95,7 +95,7 @@ div.object {
 
 .footer {
     color:#E5E7EB;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     display: flex;
     justify-content: center;
 }
@@ -110,13 +110,31 @@ div.object {
     color:#1F2937;
     padding-left: 15%;
     padding-right: 15%;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+#quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: light;
+    text-align: justify;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#thor {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    text-align: right;
+    margin-top: 0px;
 }
 
 .action {
     padding-left: 15%;
     padding-right: 15%;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 56px;
+    padding-bottom: 56px;
 }
 
 .blue {
@@ -138,7 +156,7 @@ div.object {
 
 .sign_up {
     font-size: 18px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-top: 8px;
 }
 
@@ -177,7 +195,7 @@ figcaption {
     text-align: center;
     color: #1F2937;
     font-size: 14px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-top: 5px;
 }
 
@@ -187,7 +205,7 @@ figure {
 }
 
 h3 {
-    font-size: 24px;
+    font-size: 36px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: #1F2937;
 }
